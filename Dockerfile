@@ -1,6 +1,6 @@
 # Dockerfile for nginx letsencrypt proxy
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 MAINTAINER Cristoffer Fairweather <cfairweather@annixa.com>
 
 ENV DEBIAN_FRONTEND noninteractive
